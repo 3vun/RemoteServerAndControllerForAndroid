@@ -1,6 +1,5 @@
-###############################################################
-#################            ABOUT             ################
-###############################################################
+#ABOUT APPLICATIONS
+
 This is a remote server application that listens for incoming connections and processes various commands from a client. 
 It allows remote control of a computer by simulating mouse movements, clicks, keyboard inputs, and media controls. 
 The server listens on port 8080 and provides the local IP address for the client to connect.
@@ -20,9 +19,7 @@ Close Window: Closes the application window.
 The application provides real-time interaction with the remote server, simulating user input for automation, remote control, 
 or even for testing purposes.
 
-###############################################################
-#################        INSTRUCTIONS         #################
-###############################################################
+#INSTRUCTIONS
 
 1. In the win-x64 folder start RemoteServer.exe
 2. Click allow if needed (permission for starting the server on your mashine)
