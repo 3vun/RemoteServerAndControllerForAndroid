@@ -10,6 +10,7 @@
       "RemoteServer/1.0.0": {
         "dependencies": {
           "InputSimulator": "1.0.4",
+          "Microsoft.NET.ILLink.Tasks": "8.0.11",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "8.0.11"
         },
         "runtime": {
@@ -743,7 +744,8 @@
             "fileVersion": "1.0.4.0"
           }
         }
-      }
+      },
+      "Microsoft.NET.ILLink.Tasks/8.0.11": {}
     }
   },
   "libraries": {
@@ -763,6 +765,13 @@
       "sha512": "sha512-D0LvRCPQMX6/FJHBjng+RO+wRDuHTJrfo7IAc7rmkPvRqchdVGJWg3y70peOtDy3OLNK+HSOwVkH4GiuLnkKgA==",
       "path": "inputsimulator/1.0.4",
       "hashPath": "inputsimulator.1.0.4.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/8.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zk5lnZrYJgtuJG8L4v17Ej8rZ3PUcR2iweNV08BaO5LbYHIi2wNaVNcJoLxvqgQdnjLlKnCCfVGLDr6QHeAarQ==",
+      "path": "microsoft.net.illink.tasks/8.0.11",
+      "hashPath": "microsoft.net.illink.tasks.8.0.11.nupkg.sha512"
     }
   },
   "runtimes": {
